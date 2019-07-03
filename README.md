@@ -4,3 +4,4 @@ PYTHON NOTE
 想看一下怎样更新
 看一下客户端的用法
 pull和push
+github_desktop
